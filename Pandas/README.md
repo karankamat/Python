@@ -1,3 +1,3 @@
-Recipes for using Python's powerful analysis library which provide labelled data structure, statistical functions for manipuliting data.
+Recipes for using Python's powerful analysis library which provide labelled data structure, statistical functions for manipulating data.
 
-For more information, visit pandas.pydata.org
+For curious visitors, visit pandas.pydata.org
